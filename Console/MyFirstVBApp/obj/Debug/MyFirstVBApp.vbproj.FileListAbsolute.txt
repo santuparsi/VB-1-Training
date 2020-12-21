@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\bin\Debug\MyFirstVBApp.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\bin\Debug\MyFirstVBApp.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\bin\Debug\MyFirstVBApp.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\bin\Debug\MyFirstVBApp.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\obj\Debug\MyFirstVBApp.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\obj\Debug\MyFirstVBApp.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\obj\Debug\MyFirstVBApp.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\obj\Debug\MyFirstVBApp.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\obj\Debug\MyFirstVBApp.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\obj\Debug\MyFirstVBApp.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\MyFirstVBApp\obj\Debug\MyFirstVBApp.pdb

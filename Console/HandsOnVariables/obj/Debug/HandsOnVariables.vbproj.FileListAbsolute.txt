@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\bin\Debug\HandsOnVariables.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\bin\Debug\HandsOnVariables.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\bin\Debug\HandsOnVariables.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\bin\Debug\HandsOnVariables.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\obj\Debug\HandsOnVariables.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\obj\Debug\HandsOnVariables.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\obj\Debug\HandsOnVariables.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\obj\Debug\HandsOnVariables.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\obj\Debug\HandsOnVariables.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\obj\Debug\HandsOnVariables.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnVariables\obj\Debug\HandsOnVariables.pdb

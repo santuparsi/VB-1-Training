@@ -1,0 +1,29 @@
+.Net Framework
+-------------
+1.It is plotform or environment ,we can develop diff applications
+1.desktop applications
+2.web applications
+3.console applications
+4.service application
+Components of .Net Framework
+---------------------------
+1.Languages(C#.net,Vb.net,VC++,F#.net)
+2.Libraries or Namspace or Assemblies
+imports System
+imports System.Data.SqlClient
+imports System.Data.Odbc
+imports System.XML
+3.Technologies
+	a.Windows Forms(desktop application development)
+	b.Asp.net or Asp.net MVC(web application development)
+	c.Ado.net and EntityFramework(data access communication)
+	d.WEB API and WCF(APIs or Services)
+4.CLR(Common Language Runtime)
+MSIL stands for Microsoft intermediate Language it is a compiled code of any source code(VB or C#)
+app.vb-------compilor(VBC)------------MSIL(Assembly(.exe or .dll)
+It converts MSIL code into native code(machine understandable code)
+
+IDE for VB.net
+-------------
+VSCODE
+Visual Studio 2019
