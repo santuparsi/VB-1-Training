@@ -1,0 +1,13 @@
+Conditional Statements in VB.Net
+-----------------------------
+1.If-----Then Statements
+If Condtion Then
+'statements
+End If
+2.If Then Else Statements
+
+If Condition Then
+'Statements
+Else
+'Statements
+End If

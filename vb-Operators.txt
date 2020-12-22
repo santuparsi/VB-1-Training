@@ -1,0 +1,10 @@
+Operators in VB.Net
+-------------------
+1.Arithmetic Operatiors
++,-,*,/(floating point result),\(integer reusult),MOD,^(power)
+2.Comparison Operators
+=,<>,>,<,>=,<=,is,isNot,Like
+3.Logical Operators
+And,Or,Not
+4.Assingnment Operators
+=,+=,-=,*=,/=

@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\bin\Debug\HandsOnDatatypeConversions.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\bin\Debug\HandsOnDatatypeConversions.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\bin\Debug\HandsOnDatatypeConversions.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\bin\Debug\HandsOnDatatypeConversions.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\obj\Debug\HandsOnDatatypeConversions.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\obj\Debug\HandsOnDatatypeConversions.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\obj\Debug\HandsOnDatatypeConversions.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\obj\Debug\HandsOnDatatypeConversions.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\obj\Debug\HandsOnDatatypeConversions.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\obj\Debug\HandsOnDatatypeConversions.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnDatatypeConversions\obj\Debug\HandsOnDatatypeConversions.pdb

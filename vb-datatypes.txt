@@ -1,0 +1,26 @@
+Datatypes in VB.net
+-------------------
+'Boolean type
+Boolean-true and false
+
+Char
+'Date type
+Date
+
+' Integral types
+Byte(1 byte)-0 to 255
+SByte(1 byte)- -127 to 127
+Short(2 bytes)
+UShort(2 bytes)
+Integer(4 bytes)
+UInteger(4 bytes)
+Long(8 bytes)
+ULong(8 bytes)
+'Floating types
+Single(4 bytes)
+Double(8 bytes)
+'Decimal type
+Decimal(16 bytes)
+
+String
+Object-Accept any type of data values.

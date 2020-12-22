@@ -1,0 +1,15 @@
+Type Conversion Functions in VB.net
+----------------------------------
+CBool(expression)-convert experssion into boolean type
+CByte(expr)
+CChar(expr)
+CDate(expr)
+CDbl(expr)
+CDec(expr)
+CInt(expr)
+CLng(expr)
+
+Convert string into System types
+Integer.Parse(string-value)
+Byte.Parse()
+Dobule.Parse()
