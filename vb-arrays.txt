@@ -1,0 +1,15 @@
+Arrays
+-----
+Array is a basci collection
+It hold multiple values of same type.
+dim variable() as datatype
+dim varialbe(size) as dataype
+dim a(10) as integer
+'assign value to array
+a(0)=10
+a(10)=100
+'access the value
+dim i as integer=a(2)
+
+dim a() as integer=new integer(4){10,20,30,40,50}
+dim b()as integer={10,20,30,40,50} 'dynamic array

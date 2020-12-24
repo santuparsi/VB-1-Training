@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8762328C-0046-4AF4-970F-51A5B977B9B7}</ProjectGuid>
+    <ProjectGuid>{853B8D85-1607-48CB-ADA1-F387EC2DE429}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>HandsOnLoops.Module7</StartupObject>
-    <RootNamespace>HandsOnLoops</RootNamespace>
-    <AssemblyName>HandsOnLoops</AssemblyName>
+    <StartupObject>HandsOnArrays.Module3</StartupObject>
+    <RootNamespace>HandsOnArrays</RootNamespace>
+    <AssemblyName>HandsOnArrays</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>HandsOnLoops.xml</DocumentationFile>
+    <DocumentationFile>HandsOnArrays.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>HandsOnLoops.xml</DocumentationFile>
+    <DocumentationFile>HandsOnArrays.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -72,10 +72,6 @@
     <Compile Include="Module1.vb" />
     <Compile Include="Module2.vb" />
     <Compile Include="Module3.vb" />
-    <Compile Include="Module4.vb" />
-    <Compile Include="Module5.vb" />
-    <Compile Include="Module6.vb" />
-    <Compile Include="Module7.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

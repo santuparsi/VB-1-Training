@@ -19,3 +19,20 @@ Do
 [Exit Do]
 'statements
 Loop While condition
+
+3.For
+For variable as dataype=start_value to end_value [Step step]
+'statements
+[Continue For]
+'statements
+[Exit For]
+'statements
+Next
+
+4.nested-loop
+For couter1 as datatype=start to end
+'statemenets
+For counter2 as datatype=start to end
+'statements
+Next
+Next
