@@ -1,0 +1,21 @@
+Loops
+-----
+while
+do-while
+for
+foreach
+nester loops
+1.While condtion
+'statements
+continue while
+'statements
+exit while
+2.Do
+
+Do
+'statemetns
+[Continue Do]
+'statements
+[Exit Do]
+'statements
+Loop While condition

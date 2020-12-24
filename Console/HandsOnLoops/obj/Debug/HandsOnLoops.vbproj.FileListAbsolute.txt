@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\bin\Debug\HandsOnLoops.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\bin\Debug\HandsOnLoops.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\bin\Debug\HandsOnLoops.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\bin\Debug\HandsOnLoops.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\obj\Debug\HandsOnLoops.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\obj\Debug\HandsOnLoops.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\obj\Debug\HandsOnLoops.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\obj\Debug\HandsOnLoops.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\obj\Debug\HandsOnLoops.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\obj\Debug\HandsOnLoops.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLoops\obj\Debug\HandsOnLoops.vbprojAssemblyReference.cache

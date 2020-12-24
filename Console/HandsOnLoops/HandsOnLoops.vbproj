@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5FCA076D-83F0-4564-AB83-789A391C372E}</ProjectGuid>
+    <ProjectGuid>{8762328C-0046-4AF4-970F-51A5B977B9B7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>HandsOnConditionalStatements.Module8</StartupObject>
-    <RootNamespace>HandsOnConditionalStatements</RootNamespace>
-    <AssemblyName>HandsOnConditionalStatements</AssemblyName>
+    <StartupObject>HandsOnLoops.Module4</StartupObject>
+    <RootNamespace>HandsOnLoops</RootNamespace>
+    <AssemblyName>HandsOnLoops</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>HandsOnConditionalStatements.xml</DocumentationFile>
+    <DocumentationFile>HandsOnLoops.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>HandsOnConditionalStatements.xml</DocumentationFile>
+    <DocumentationFile>HandsOnLoops.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -73,10 +73,6 @@
     <Compile Include="Module2.vb" />
     <Compile Include="Module3.vb" />
     <Compile Include="Module4.vb" />
-    <Compile Include="Module5.vb" />
-    <Compile Include="Module6.vb" />
-    <Compile Include="Module7.vb" />
-    <Compile Include="Module8.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -92,7 +88,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Student.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

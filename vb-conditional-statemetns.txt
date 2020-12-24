@@ -11,3 +11,34 @@ If Condition Then
 Else
 'Statements
 End If
+
+3.If--Else If--Else Statements
+If condition then
+'statements
+ElseIf condition then
+'statements
+ElseIf condition then
+'statements
+Else
+'statements
+End If
+
+4.Nested If
+if condition then
+'statements
+if condition then
+'statements
+End If
+End If
+
+Select Statement
+----------------
+
+select expression
+case expression
+'statements
+case expression
+'statements
+case else
+'statements
+End select
