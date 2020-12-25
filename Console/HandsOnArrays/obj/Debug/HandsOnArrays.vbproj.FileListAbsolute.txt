@@ -8,3 +8,4 @@ D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnArrays\obj\Debug\HandsOnArrays.v
 D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnArrays\obj\Debug\HandsOnArrays.exe
 D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnArrays\obj\Debug\HandsOnArrays.xml
 D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnArrays\obj\Debug\HandsOnArrays.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnArrays\obj\Debug\HandsOnArrays.vbprojAssemblyReference.cache
