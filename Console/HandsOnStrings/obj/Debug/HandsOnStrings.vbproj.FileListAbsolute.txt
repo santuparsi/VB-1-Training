@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\bin\Debug\HandsOnStrings.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\bin\Debug\HandsOnStrings.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\bin\Debug\HandsOnStrings.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\bin\Debug\HandsOnStrings.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\obj\Debug\HandsOnStrings.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\obj\Debug\HandsOnStrings.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\obj\Debug\HandsOnStrings.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\obj\Debug\HandsOnStrings.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\obj\Debug\HandsOnStrings.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\obj\Debug\HandsOnStrings.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnStrings\obj\Debug\HandsOnStrings.pdb

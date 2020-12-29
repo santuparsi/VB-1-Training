@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\bin\Debug\HandsOnSubProceduresAndFunctions.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\bin\Debug\HandsOnSubProceduresAndFunctions.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\bin\Debug\HandsOnSubProceduresAndFunctions.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\bin\Debug\HandsOnSubProceduresAndFunctions.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\obj\Debug\HandsOnSubProceduresAndFunctions.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\obj\Debug\HandsOnSubProceduresAndFunctions.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\obj\Debug\HandsOnSubProceduresAndFunctions.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\obj\Debug\HandsOnSubProceduresAndFunctions.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\obj\Debug\HandsOnSubProceduresAndFunctions.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\obj\Debug\HandsOnSubProceduresAndFunctions.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnSubProceduresAndFunctions\obj\Debug\HandsOnSubProceduresAndFunctions.vbprojAssemblyReference.cache
