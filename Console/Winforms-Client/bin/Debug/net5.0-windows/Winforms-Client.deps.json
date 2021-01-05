@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Winforms-Client/1.0.0": {
+        "dependencies": {
+          "My.MathLib": "1.0.0"
+        },
+        "runtime": {
+          "Winforms-Client.dll": {}
+        }
+      },
+      "My.MathLib/1.0.0": {
+        "runtime": {
+          "My.MathLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Winforms-Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "My.MathLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

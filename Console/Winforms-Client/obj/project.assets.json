@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "My.MathLib/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/My.MathLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/My.MathLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "My.MathLib/1.0.0": {
+      "type": "project",
+      "path": "../My.MathLib/My.MathLib.vbproj",
+      "msbuildProject": "../My.MathLib/My.MathLib.vbproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "My.MathLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SANTHOSH\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\OnlineBatch\\VB.Net(Evenining)\\Console\\Winforms-Client\\Winforms-Client.vbproj",
+      "projectName": "Winforms-Client",
+      "projectPath": "D:\\OnlineBatch\\VB.Net(Evenining)\\Console\\Winforms-Client\\Winforms-Client.vbproj",
+      "packagesPath": "C:\\Users\\SANTHOSH\\.nuget\\packages\\",
+      "outputPath": "D:\\OnlineBatch\\VB.Net(Evenining)\\Console\\Winforms-Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\SANTHOSH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\OnlineBatch\\VB.Net(Evenining)\\Console\\My.MathLib\\My.MathLib.vbproj": {
+              "projectPath": "D:\\OnlineBatch\\VB.Net(Evenining)\\Console\\My.MathLib\\My.MathLib.vbproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

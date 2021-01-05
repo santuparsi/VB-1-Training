@@ -1,0 +1,15 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\bin\Debug\Console-Clinet.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\bin\Debug\Console-Clinet.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\bin\Debug\Console-Clinet.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\bin\Debug\Console-Clinet.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\bin\Debug\My.MathLib.dll
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\bin\Debug\My.MathLib.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\bin\Debug\My.MathLib.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\obj\Debug\Console-Clinet.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\obj\Debug\Console_Clinet.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\obj\Debug\Console-Clinet.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\obj\Debug\Console-Clinet.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\obj\Debug\Console-Clinet.vbproj.CopyComplete
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\obj\Debug\Console-Clinet.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\obj\Debug\Console-Clinet.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\Console-Clinet\obj\Debug\Console-Clinet.pdb

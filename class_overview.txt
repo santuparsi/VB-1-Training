@@ -1,0 +1,18 @@
+Class
+----
+A class is a template or blueprint.
+A class is a collection of class-members
+Class Sample
+'variables
+'sub
+'functions
+'properties
+'construnctros
+End Class
+
+Object
+-----
+Object is an instance of class by using which we can access diff members of class
+
+Dim obj as new Class_name
+Dim obj as new Sample

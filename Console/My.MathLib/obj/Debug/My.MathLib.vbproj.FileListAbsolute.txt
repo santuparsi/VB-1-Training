@@ -1,0 +1,10 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\My.MathLib\bin\Debug\My.MathLib.dll
+D:\OnlineBatch\VB.Net(Evenining)\Console\My.MathLib\bin\Debug\My.MathLib.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\My.MathLib\bin\Debug\My.MathLib.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\My.MathLib\obj\Debug\My.MathLib.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\My.MathLib\obj\Debug\My.MathLib.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\My.MathLib\obj\Debug\My.MathLib.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\My.MathLib\obj\Debug\My.MathLib.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\My.MathLib\obj\Debug\My.MathLib.dll
+D:\OnlineBatch\VB.Net(Evenining)\Console\My.MathLib\obj\Debug\My.MathLib.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\My.MathLib\obj\Debug\My.MathLib.pdb
