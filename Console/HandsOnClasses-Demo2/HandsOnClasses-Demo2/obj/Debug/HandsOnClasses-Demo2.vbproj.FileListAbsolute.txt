@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\bin\Debug\HandsOnClasses-Demo2.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\bin\Debug\HandsOnClasses-Demo2.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\bin\Debug\HandsOnClasses-Demo2.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\bin\Debug\HandsOnClasses-Demo2.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\obj\Debug\HandsOnClasses-Demo2.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\obj\Debug\HandsOnClasses_Demo2.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\obj\Debug\HandsOnClasses-Demo2.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\obj\Debug\HandsOnClasses-Demo2.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\obj\Debug\HandsOnClasses-Demo2.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\obj\Debug\HandsOnClasses-Demo2.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClasses-Demo2\HandsOnClasses-Demo2\obj\Debug\HandsOnClasses-Demo2.pdb
