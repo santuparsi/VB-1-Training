@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\bin\Debug\HandsOnConstructors.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\bin\Debug\HandsOnConstructors.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\bin\Debug\HandsOnConstructors.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\bin\Debug\HandsOnConstructors.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\obj\Debug\HandsOnConstructors.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\obj\Debug\HandsOnConstructors.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\obj\Debug\HandsOnConstructors.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\obj\Debug\HandsOnConstructors.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\obj\Debug\HandsOnConstructors.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\obj\Debug\HandsOnConstructors.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnConstructors\HandsOnConstructors\obj\Debug\HandsOnConstructors.pdb

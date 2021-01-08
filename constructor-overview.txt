@@ -1,0 +1,22 @@
+Constructors
+-----------
+1.It is a member of class
+2.It is used to initialize class variables
+3.It is used to initialize class object
+4.It also used to restrict object creation of a class
+5.It invokes automatically when create object
+6.we can define multiple constructors in a class
+
+Declaration:
+
+public Sub New()
+
+End New
+
+public Sub New(i as integer)
+'statements
+End New
+
+types
+1.Default constructor(no parameters)
+2.Parametarized constructor(have parameters)
