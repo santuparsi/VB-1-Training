@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\bin\Debug\HandsOnLinq.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\bin\Debug\HandsOnLinq.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\bin\Debug\HandsOnLinq.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\bin\Debug\HandsOnLinq.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnLinq\HandsOnLinq\obj\Debug\HandsOnLinq.pdb

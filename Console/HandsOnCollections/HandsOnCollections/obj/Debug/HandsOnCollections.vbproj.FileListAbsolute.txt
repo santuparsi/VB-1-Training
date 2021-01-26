@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\bin\Debug\HandsOnCollections.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\bin\Debug\HandsOnCollections.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\bin\Debug\HandsOnCollections.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\bin\Debug\HandsOnCollections.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\obj\Debug\HandsOnCollections.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\obj\Debug\HandsOnCollections.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\obj\Debug\HandsOnCollections.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\obj\Debug\HandsOnCollections.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\obj\Debug\HandsOnCollections.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\obj\Debug\HandsOnCollections.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnCollections\HandsOnCollections\obj\Debug\HandsOnCollections.pdb

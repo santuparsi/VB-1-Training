@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\bin\Debug\HandsOnExceptions.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\bin\Debug\HandsOnExceptions.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\bin\Debug\HandsOnExceptions.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\bin\Debug\HandsOnExceptions.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\obj\Debug\HandsOnExceptions.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\obj\Debug\HandsOnExceptions.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\obj\Debug\HandsOnExceptions.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\obj\Debug\HandsOnExceptions.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\obj\Debug\HandsOnExceptions.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\obj\Debug\HandsOnExceptions.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnExceptions\HandsOnExceptions\obj\Debug\HandsOnExceptions.pdb

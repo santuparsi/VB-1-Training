@@ -1,0 +1,16 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\bin\Debug\HandsOnEntityFramework.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\bin\Debug\HandsOnEntityFramework.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\bin\Debug\HandsOnEntityFramework.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\bin\Debug\HandsOnEntityFramework.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\bin\Debug\EntityFramework.dll
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\bin\Debug\EntityFramework.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\obj\Debug\HandsOnEntityFramework.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\obj\Debug\HandsOnEntityFramework.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\obj\Debug\HandsOnEntityFramework.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\obj\Debug\HandsOnEntityFramework.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\obj\Debug\HandsOnEntityFramework.vbproj.CopyComplete
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\obj\Debug\HandsOnEntityFramework.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\obj\Debug\HandsOnEntityFramework.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnEntityFramework\HandsOnEntityFramework\obj\Debug\HandsOnEntityFramework.pdb

@@ -1,0 +1,10 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnInheritance\HandsOnInheritance\bin\Debug\HandsOnInheritance.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnInheritance\HandsOnInheritance\bin\Debug\HandsOnInheritance.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnInheritance\HandsOnInheritance\bin\Debug\HandsOnInheritance.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnInheritance\HandsOnInheritance\bin\Debug\HandsOnInheritance.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnInheritance\HandsOnInheritance\obj\Debug\HandsOnInheritance.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnInheritance\HandsOnInheritance\obj\Debug\HandsOnInheritance.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnInheritance\HandsOnInheritance\obj\Debug\HandsOnInheritance.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnInheritance\HandsOnInheritance\obj\Debug\HandsOnInheritance.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnInheritance\HandsOnInheritance\obj\Debug\HandsOnInheritance.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnInheritance\HandsOnInheritance\obj\Debug\HandsOnInheritance.pdb

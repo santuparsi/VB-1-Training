@@ -1,0 +1,12 @@
+Collections
+---------
+A collection is a group of objects or values
+.Net Framework have many collections to organize the data
+All Collections are dynamic in nature.
+All Collection can hole any type of data(primitive and class data)
+Import system.Collections
+ArrayList(Index based)
+Hashtable(key based)
+SortedList(key based)(organize the data in sorted order of the key)
+Stack(LIFO)(Last in First Out)
+Queue(FIFO)

@@ -1,0 +1,14 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\bin\Debug\HandsOnJSon.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\bin\Debug\HandsOnJSon.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\bin\Debug\HandsOnJSon.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\bin\Debug\HandsOnJSon.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\bin\Debug\Newtonsoft.Json.dll
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\bin\Debug\Newtonsoft.Json.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\obj\Debug\HandsOnJSon.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\obj\Debug\HandsOnJSon.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\obj\Debug\HandsOnJSon.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\obj\Debug\HandsOnJSon.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\obj\Debug\HandsOnJSon.vbproj.CopyComplete
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\obj\Debug\HandsOnJSon.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\obj\Debug\HandsOnJSon.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnJSon\HandsOnJSon\obj\Debug\HandsOnJSon.pdb

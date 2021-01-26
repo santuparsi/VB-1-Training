@@ -1,0 +1,14 @@
+LINQ(Language Integrated Query):
+c# 3.5
+Linq is a unified query programming model to query data from diff data sources
+Table(sql queries)
+XML(xpath expressions)
+Excel
+Collections and Arrays
+
+Linq with Objects(Collections and arrays)
+Linq to XML(XLinq)
+Linq to Table
+Linq to Entities(Entity Framework)
+
+System.Linq

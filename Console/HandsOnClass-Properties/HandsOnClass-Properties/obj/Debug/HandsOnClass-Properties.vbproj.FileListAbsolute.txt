@@ -1,0 +1,11 @@
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\bin\Debug\HandsOnClass-Properties.exe.config
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\bin\Debug\HandsOnClass-Properties.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\bin\Debug\HandsOnClass-Properties.pdb
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\bin\Debug\HandsOnClass-Properties.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\obj\Debug\HandsOnClass-Properties.vbprojAssemblyReference.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\obj\Debug\HandsOnClass_Properties.Resources.resources
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\obj\Debug\HandsOnClass-Properties.vbproj.GenerateResource.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\obj\Debug\HandsOnClass-Properties.vbproj.CoreCompileInputs.cache
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\obj\Debug\HandsOnClass-Properties.exe
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\obj\Debug\HandsOnClass-Properties.xml
+D:\OnlineBatch\VB.Net(Evenining)\Console\HandsOnClass-Properties\HandsOnClass-Properties\obj\Debug\HandsOnClass-Properties.pdb
